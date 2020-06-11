@@ -1,9 +1,9 @@
 {
     "nodes": [{
-            "id": CSM
+            "id": 1
         },
         {
-            "id": Tower_Hamlets
+            "id": 2
         },
         {
             "id": 3
@@ -32,32 +32,32 @@
     ],
     "links": [
         {
-            "source": CSM,
+            "source": 1,
             "target": 3
         },
         {
             "source": 6,
-            "target": CSM
+            "target": 1
         },
         {
             "source": 7,
-            "target": CSM
+            "target": 1
         },
         {
-            "source": Tower Hamlets,
+            "source": 2,
             "target": 3
         },
         {
-            "source": Tower Hamlets,
+            "source": 2,
             "target": 6
         },
         {
             "source": 8,
-            "target": Tower Hamlets
+            "target": 2
         },
         {
             "source": 9,
-            "target": Tower Hamlets
+            "target": 2
         },
         {
             "source": 10,
